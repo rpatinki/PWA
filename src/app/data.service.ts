@@ -10,11 +10,4 @@ export class DataService {
 
   }
 
-  getHeadlines(){
-    return this.http.get('https://newsapi.org/v2/top-headlines?country=in&apiKey='+environment.apiKey);
-  }
-  byCategory(category){
-    return this.http.get('https://newsapi.org/v2/top-headlines?country=in&category='+ category +'&apiKey='+environment.apiKey);
-    
-  }
 }
