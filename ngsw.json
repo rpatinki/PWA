@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576053630958,
+  "timestamp": 1576055461838,
   "index": "https://rpatinki.github.io/PWA/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://rpatinki.github.io/PWA/favicon.ico",
         "https://rpatinki.github.io/PWA/index.html",
-        "https://rpatinki.github.io/PWA/main-es2015.15817274219e2fd3405e.js",
-        "https://rpatinki.github.io/PWA/main-es5.15817274219e2fd3405e.js",
+        "https://rpatinki.github.io/PWA/main-es2015.4550008feb08a25a23c0.js",
+        "https://rpatinki.github.io/PWA/main-es5.4550008feb08a25a23c0.js",
         "https://rpatinki.github.io/PWA/manifest.webmanifest",
         "https://rpatinki.github.io/PWA/polyfills-es2015.d3e61f0dd2b58e518eca.js",
         "https://rpatinki.github.io/PWA/polyfills-es5.f8b5a32bf736d11d106f.js",
@@ -64,9 +64,9 @@
     "https://rpatinki.github.io/PWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://rpatinki.github.io/PWA/assets/placeholder.png": "7ed8a234babfe4f542c99455a3194a05bdaa871a",
     "https://rpatinki.github.io/PWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://rpatinki.github.io/PWA/index.html": "238a53b5dd3d2715d34ad249ab696b5b7d9377e9",
-    "https://rpatinki.github.io/PWA/main-es2015.15817274219e2fd3405e.js": "b34cfc31a83947282467f3110efc43768d4a9db6",
-    "https://rpatinki.github.io/PWA/main-es5.15817274219e2fd3405e.js": "172eb585fd276fc73a28d9a470589aadef5a90a9",
+    "https://rpatinki.github.io/PWA/index.html": "711a1e0bbaad8bf1eb5b9eb4900722079d210ef9",
+    "https://rpatinki.github.io/PWA/main-es2015.4550008feb08a25a23c0.js": "2be8e3c355e28486b737c3bb1b84eb94e6c305c3",
+    "https://rpatinki.github.io/PWA/main-es5.4550008feb08a25a23c0.js": "4bd84a22cb7354db9385de464818485e0b3df529",
     "https://rpatinki.github.io/PWA/manifest.webmanifest": "3857cb3e77aa361c23135011aeb94f4e5f4c4af1",
     "https://rpatinki.github.io/PWA/polyfills-es2015.d3e61f0dd2b58e518eca.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "https://rpatinki.github.io/PWA/polyfills-es5.f8b5a32bf736d11d106f.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
